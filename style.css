@@ -41,8 +41,11 @@
             width: 900px;
             border: 5px solid black;
             box-shadow: 30px 25px 30px black;
-            margin-left: 400px;
-            margin-top: 150px;
+/*             margin-left: 400px;
+            margin-top: 150px; */
+            position: relative;
+            top: 150px;
+            left: 100px;
         }
 /* This is Ashoka Chakra create by CSS in INDIA's Flag.  
 
